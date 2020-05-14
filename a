@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+	float numero;
+	printf("ingrese un numero decimal:");
+	scanf("%f",&numero);
+	printf("%f",numero);
+}
